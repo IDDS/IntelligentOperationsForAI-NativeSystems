@@ -89,6 +89,7 @@
 - `visuals/course-poster-light-v6.svg/png/pdf`：更新后的浅色课程海报；加入课程知识图谱主线和 GitHub 课程资料仓库地址。
 - `visuals/course-poster-light-v8.svg/png/pdf`：精简宣传版海报；删除长段说明、论文列表和技术栈列表，保留标题、主视觉、课程数据、六个能力关键词、17 周路线、成果和 GitHub 地址。
 - `visuals/course-poster-light-v9.svg/png/pdf`：精简宣传版图标增强版；在六个能力关键词卡片中加入 GPU、可观测、诊断、Agent、对象和调查线性图标，并保留统一浅蓝主视觉窗格。
+- `visuals/course-poster-light-v10.svg/png/pdf`：规范地址版海报；将资料仓库地址更新为 GitHub 迁移后的规范地址 `github.com/IDDS/IntelligentOperationsForAI-NativeSystems`。
 - `visuals/course-poster-multiagent-hero-cropped.png`：裁掉原始多智能体素材的灰色外框，用于与海报主视觉背景融合。
 - `visuals/course-poster-light-v4.svg/png/pdf`：浅色研究型海报；多智能体图片与浅色背景统一，课程内容覆盖、六大能力模块、17 周路线、研究案例和交付成果作为主体信息。
 - `visuals/course-poster-v3.svg/png/pdf`：海报版；加入大模型—多智能体主视觉、四类 Agent 角色说明、五个生产问题、六条能力主线、研究案例、技术栈与可交付成果。
