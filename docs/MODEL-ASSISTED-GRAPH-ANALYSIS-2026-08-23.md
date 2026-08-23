@@ -53,3 +53,5 @@
 用户进一步要求先生成稳定的节点—边图，再做视觉集成。为此新增 `course-knowledge-graph-graphviz-v11.dot`：节点、关系类型和课程周次均在 DOT 源文件中定义，由 Graphviz 自动完成布局、折线和箭头端点计算。`graphviz-v11.svg/png/pdf` 是第一阶段的可检查结果；只有在关系结构确认后，才继续做背景、标题和宣传版式集成。
 
 v12 在 Graphviz 源文件中为每个知识域增加“要回答的问题”，为关键节点增加一句教学解释，并在图标题中加入课程资料仓库：`github.com/IDDS/-IntelligentOperationsForAI-NativeSystems`。海报同步更新为 `course-poster-light-v6.*`。
+
+由于 v12 横向跨度仍偏大，v15 改为 Graphviz 的上下分层布局，减少横向空白和跨图长边；同时保留自动箭头、知识域问题说明、节点教学解释和 GitHub 地址。v15 是当前推荐的图谱版本。
